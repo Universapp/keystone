@@ -7,7 +7,7 @@ import React from 'react';
 import { findDOMNode } from 'react-dom';
 import assign from 'object-assign';
 import AlertMessages from './AlertMessages';
-import { Fields } from 'FieldTypes';
+import { Fields } from '../../../../fields';
 import InvalidFieldType from './InvalidFieldType';
 import { Button, Form, Modal } from 'elemental';
 
